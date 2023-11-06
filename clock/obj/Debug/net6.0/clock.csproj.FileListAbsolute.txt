@@ -1,0 +1,15 @@
+Z:\yaya\ConsoleApplication1\clock\bin\Debug\net6.0\clock.exe
+Z:\yaya\ConsoleApplication1\clock\bin\Debug\net6.0\clock.deps.json
+Z:\yaya\ConsoleApplication1\clock\bin\Debug\net6.0\clock.runtimeconfig.json
+Z:\yaya\ConsoleApplication1\clock\bin\Debug\net6.0\clock.dll
+Z:\yaya\ConsoleApplication1\clock\bin\Debug\net6.0\clock.pdb
+Z:\yaya\ConsoleApplication1\clock\obj\Debug\net6.0\clock.csproj.AssemblyReference.cache
+Z:\yaya\ConsoleApplication1\clock\obj\Debug\net6.0\clock.GeneratedMSBuildEditorConfig.editorconfig
+Z:\yaya\ConsoleApplication1\clock\obj\Debug\net6.0\clock.AssemblyInfoInputs.cache
+Z:\yaya\ConsoleApplication1\clock\obj\Debug\net6.0\clock.AssemblyInfo.cs
+Z:\yaya\ConsoleApplication1\clock\obj\Debug\net6.0\clock.csproj.CoreCompileInputs.cache
+Z:\yaya\ConsoleApplication1\clock\obj\Debug\net6.0\clock.dll
+Z:\yaya\ConsoleApplication1\clock\obj\Debug\net6.0\refint\clock.dll
+Z:\yaya\ConsoleApplication1\clock\obj\Debug\net6.0\clock.pdb
+Z:\yaya\ConsoleApplication1\clock\obj\Debug\net6.0\clock.genruntimeconfig.cache
+Z:\yaya\ConsoleApplication1\clock\obj\Debug\net6.0\ref\clock.dll
